@@ -158,3 +158,7 @@ long a4_minus_b4(int a, int b)
 {
 	return pow((double) a, 4) - pow((double) b, 4);
 }
+
+void sqrt(float f){
+	printf("The square root of %f is %f\n", f, sqrt(f));
+}
