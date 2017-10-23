@@ -13,7 +13,7 @@ int main(int argc, char const *argv[]) {
     printf("\n");
   }
 
-  printf("Ooops")
+  printf("Ooops");
 	printf("count_vowels(0) = %u\n", count_vowels(0));
 	printf("count_vowels(994223116) = %u\n", count_vowels(994223116));
   printf("%lx -> %lx\n", num, swap_bytes(num));
