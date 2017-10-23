@@ -1,6 +1,6 @@
 #include "functions.h"
-
 #include <stdio.h>
+#include <math.h>
 
 /***********************************/
 /*                1                */
@@ -156,5 +156,5 @@ unsigned long swap_bytes(unsigned long n)
 /***********************************/
 long a4_minus_b4(int a, int b)
 {
-	return a*a*a*a - b*b*b*b;
+	return pow((double) a, 4) - pow((double) b, 4);
 }

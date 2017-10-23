@@ -1,5 +1,5 @@
 CFLAGS := -g -Wall -std=c99
-LDFLAGS :=
+LDFLAGS := -lm
 
 all: main test
 
