@@ -1,5 +1,5 @@
 # integrations
 
-[![Build Status](https://travis-ci.org/colematt/integrations.svg?branch=master)](https://travis-ci.org/colematt/integrations)
+[![Build Status](https://travis-ci.org/RichardLee0211/integrations.svg?branch=master)](https://travis-ci.org/RichardLee0211/integrations)
 
 ## https://github.com/colematt/integrations
